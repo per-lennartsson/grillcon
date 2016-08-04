@@ -52,7 +52,7 @@ GrillCon Vår 2016
 
 Du kan nu [anmäla dig till eventet](https://github.com/dbwebb-se/grillcon/issues/2) **GrillCon 2016 Vår** som early bird.
 
-Eventet går av stapeln fredagen den 27:e maj vid Studentviken. Huvudeventet startar klockan 17:00.
+Eventet går av stapeln fredagen den 16:e september vid Studentviken. Huvudeventet startar klockan 17:00.
 
 
 
